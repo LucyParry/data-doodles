@@ -2,7 +2,7 @@
 A repository of little investigations of open data based around Jupyter notebooks, inspired by the Open University module TM351, which is part of my Computing and IT degree.
 
 #### General Election Night 2017
-Comparing data published on election results for each seat published by <a href="http://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979">here</a> by the House of Commons Library with counts of tweets with various related keywords, which were harvested using [Tweepy](http://tweepy.readthedocs.io/en/v3.5.0/). 
+([Notebook here](https://github.com/LucyParry/data-doodles/blob/master/GE2017/Election%20Night/Election%20Night.ipynb)) Comparing data published on election results for each seat published by <a href="http://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979">here</a> by the House of Commons Library with counts of tweets with various related keywords, which were harvested using [Tweepy](http://tweepy.readthedocs.io/en/v3.5.0/). 
 
 <img src="ElectionDeclarationTimeAndVoteShare.png" alt="Election Night">
 
@@ -20,7 +20,7 @@ Plotting the tweets against the actual declaration times was intriguing, but the
 The vast majority of the tweets on the day were sent during polling hours (07:00 - 22:00), although there were probably more tweets <em>in general</em> between those two times. There appeared to be consistently more tweets in the first half of the polling hours (07:00 - 14:30) than in the second half  (14:31 - 22:00) and although it starts to reduce around 12:00, there's a spike at almost halfway at 14:15 (maybe a lot of retweeting in a short period?). In the evening, another spike can be seen at 20:00 (After-dinner / Eastenders dog walkers? People settling down in front of their devices for the evening?).
 
 #### BBC Salaries
-Visualising data on the salaries of top earners at the BBC which was <a href="http://downloads.bbc.co.uk/aboutthebbc/insidethebbc/reports/pdf/annex_annual_report_201617.pdf">released in their annual report</a> in July 2017 to some controversy over the inequalities it revealed.
+([Notebook here](https://github.com/LucyParry/data-doodles/blob/master/BBCSalaries/Salaries.ipynb)) Visualising data on the salaries of top earners at the BBC which was <a href="http://downloads.bbc.co.uk/aboutthebbc/insidethebbc/reports/pdf/annex_annual_report_201617.pdf">released in their annual report</a> in July 2017 to some controversy over the inequalities it revealed.
 
 <img src="BBCSalaries.png" alt="BBC Salaries">
  
