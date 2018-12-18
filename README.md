@@ -1,5 +1,5 @@
 # data-doodles
-A repository of little investigations of open data based around Jupyter notebooks, inspired by the Open University module TM351, which is part of my Computing and IT degree.
+A repository of little open data experiments done in Jupyter notebooks for learning parts of the Python data analysis menagerie. Done either for fun / practice or for the Open University module TM351 - See http://www.open.ac.uk/courses/modules/tm351)
 
 #### General Election Night 2017
 ([Notebook here](https://github.com/LucyParry/data-doodles/blob/master/GE2017/Election%20Night/Election%20Night.ipynb)) Comparing data published on election results for each seat published by <a href="http://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979">here</a> by the House of Commons Library with counts of tweets with various related keywords, which were harvested using [Tweepy](http://tweepy.readthedocs.io/en/v3.5.0/). 
